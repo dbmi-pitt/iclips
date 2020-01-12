@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns0:RetrieveValueSetResponse xmlns:ns0="urn:ihe:iti:svs:2008" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ns0:ValueSet ID="2.16.840.1.113762.1.4.1213.30" displayName="Bupropions" version="20191216">
+        <ns0:ConceptList>
+            <ns0:Concept code="1232585" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR Bupropion Hydrochloride 450 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="1551468" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="12 HR Bupropion Hydrochloride 90 MG / Naltrexone hydrochloride 8 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="993503" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="12 HR Bupropion Hydrochloride 100 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="993518" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="12 HR Bupropion Hydrochloride 150 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="993536" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="12 HR Bupropion Hydrochloride 200 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="993541" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR Bupropion Hydrochloride 150 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="993550" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR Bupropion hydrobromide 174 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="993557" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR Bupropion Hydrochloride 300 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="993567" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR Bupropion hydrobromide 348 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="993681" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR Bupropion hydrobromide 522 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="993687" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Bupropion Hydrochloride 100 MG Oral Tablet"/>
+            <ns0:Concept code="993691" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Bupropion Hydrochloride 75 MG Oral Tablet"/>
+        </ns0:ConceptList>
+    </ns0:ValueSet>
+</ns0:RetrieveValueSetResponse>

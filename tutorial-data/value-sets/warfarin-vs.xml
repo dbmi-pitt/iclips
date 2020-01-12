@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns0:RetrieveValueSetResponse xmlns:ns0="urn:ihe:iti:svs:2008" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ns0:ValueSet ID="2.16.840.1.113762.1.4.1213.8" displayName="Warfarins" version="20191216">
+        <ns0:ConceptList>
+            <ns0:Concept code="855288" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Warfarin Sodium 1 MG Oral Tablet"/>
+            <ns0:Concept code="855296" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Warfarin Sodium 10 MG Oral Tablet"/>
+            <ns0:Concept code="855302" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Warfarin Sodium 2 MG Oral Tablet"/>
+            <ns0:Concept code="855312" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Warfarin Sodium 2.5 MG Oral Tablet"/>
+            <ns0:Concept code="855318" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Warfarin Sodium 3 MG Oral Tablet"/>
+            <ns0:Concept code="855324" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Warfarin Sodium 4 MG Oral Tablet"/>
+            <ns0:Concept code="855332" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Warfarin Sodium 5 MG Oral Tablet"/>
+            <ns0:Concept code="855338" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Warfarin Sodium 6 MG Oral Tablet"/>
+            <ns0:Concept code="855344" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Warfarin Sodium 7.5 MG Oral Tablet"/>
+        </ns0:ConceptList>
+    </ns0:ValueSet>
+</ns0:RetrieveValueSetResponse>

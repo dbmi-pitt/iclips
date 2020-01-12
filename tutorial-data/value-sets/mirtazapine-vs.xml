@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns0:RetrieveValueSetResponse xmlns:ns0="urn:ihe:iti:svs:2008" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ns0:ValueSet ID="2.16.840.1.113762.1.4.1213.32" displayName="Mirtazapines" version="20191216">
+        <ns0:ConceptList>
+            <ns0:Concept code="283406" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Mirtazapine 15 MG Disintegrating Oral Tablet"/>
+            <ns0:Concept code="283407" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Mirtazapine 30 MG Disintegrating Oral Tablet"/>
+            <ns0:Concept code="283485" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Mirtazapine 45 MG Disintegrating Oral Tablet"/>
+            <ns0:Concept code="311725" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Mirtazapine 15 MG Oral Tablet"/>
+            <ns0:Concept code="311726" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Mirtazapine 45 MG Oral Tablet"/>
+            <ns0:Concept code="314111" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Mirtazapine 30 MG Oral Tablet"/>
+            <ns0:Concept code="476809" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Mirtazapine 7.5 MG Oral Tablet"/>
+        </ns0:ConceptList>
+    </ns0:ValueSet>
+</ns0:RetrieveValueSetResponse>

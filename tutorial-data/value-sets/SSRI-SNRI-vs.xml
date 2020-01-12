@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns0:RetrieveValueSetResponse xmlns:ns0="urn:ihe:iti:svs:2008" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ns0:ValueSet ID="2.16.840.1.113762.1.4.1213.33" displayName="SSRIs and SNRIs" version="20191216">
+        <ns0:ConceptList>
+            <ns0:Concept code="1086772" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="vilazodone hydrochloride 10 MG Oral Tablet"/>
+            <ns0:Concept code="1086778" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="vilazodone hydrochloride 20 MG Oral Tablet"/>
+            <ns0:Concept code="1086784" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="vilazodone hydrochloride 40 MG Oral Tablet"/>
+            <ns0:Concept code="1190110" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluoxetine 60 MG Oral Tablet"/>
+            <ns0:Concept code="1430122" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Paroxetine mesylate 7.5 MG Oral Capsule"/>
+            <ns0:Concept code="1433217" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR levomilnacipran 120 MG Extended Release Oral Capsule"/>
+            <ns0:Concept code="1433227" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR levomilnacipran 20 MG Extended Release Oral Capsule"/>
+            <ns0:Concept code="1433233" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR levomilnacipran 40 MG Extended Release Oral Capsule"/>
+            <ns0:Concept code="1433239" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR levomilnacipran 80 MG Extended Release Oral Capsule"/>
+            <ns0:Concept code="1439808" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="vortioxetine 10 MG Oral Tablet"/>
+            <ns0:Concept code="1439810" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="vortioxetine 20 MG Oral Tablet"/>
+            <ns0:Concept code="1439812" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="vortioxetine 5 MG Oral Tablet"/>
+            <ns0:Concept code="1439840" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="vortioxetine 15 MG Oral Tablet"/>
+            <ns0:Concept code="151260" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluoxetine 60 MG Oral Capsule"/>
+            <ns0:Concept code="1607617" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR desvenlafaxine succinate 25 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="199990" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Sertraline 25 MG Oral Capsule"/>
+            <ns0:Concept code="200371" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Citalopram 20 MG Oral Tablet"/>
+            <ns0:Concept code="248097" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Sertraline 50 MG Oral Capsule"/>
+            <ns0:Concept code="248098" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Sertraline 100 MG Oral Capsule"/>
+            <ns0:Concept code="248642" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluoxetine 20 MG Oral Tablet"/>
+            <ns0:Concept code="251200" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Sertraline 200 MG Oral Tablet"/>
+            <ns0:Concept code="283672" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Citalopram 10 MG Oral Tablet"/>
+            <ns0:Concept code="309313" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Citalopram 2 MG/ML Oral Solution"/>
+            <ns0:Concept code="309314" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Citalopram 40 MG Oral Tablet"/>
+            <ns0:Concept code="310384" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluoxetine 10 MG Oral Capsule"/>
+            <ns0:Concept code="310385" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluoxetine 20 MG Oral Capsule"/>
+            <ns0:Concept code="310386" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluoxetine 4 MG/ML Oral Solution"/>
+            <ns0:Concept code="312242" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Paroxetine Hydrochloride 2 MG/ML Oral Suspension"/>
+            <ns0:Concept code="312938" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Sertraline 100 MG Oral Tablet"/>
+            <ns0:Concept code="312940" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Sertraline 25 MG Oral Tablet"/>
+            <ns0:Concept code="312941" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Sertraline 50 MG Oral Tablet"/>
+            <ns0:Concept code="313580" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="venlafaxine 100 MG Oral Tablet"/>
+            <ns0:Concept code="313581" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR venlafaxine 150 MG Extended Release Oral Capsule"/>
+            <ns0:Concept code="313582" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="venlafaxine 25 MG Oral Tablet"/>
+            <ns0:Concept code="313583" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR venlafaxine 37.5 MG Extended Release Oral Capsule"/>
+            <ns0:Concept code="313584" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="venlafaxine 37.5 MG Oral Tablet"/>
+            <ns0:Concept code="313585" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR venlafaxine 75 MG Extended Release Oral Capsule"/>
+            <ns0:Concept code="313586" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="venlafaxine 75 MG Oral Tablet"/>
+            <ns0:Concept code="313989" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluoxetine 40 MG Oral Capsule"/>
+            <ns0:Concept code="313990" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluoxetine 10 MG Oral Tablet"/>
+            <ns0:Concept code="313995" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluoxetine 90 MG Delayed Release Oral Capsule"/>
+            <ns0:Concept code="314277" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="venlafaxine 50 MG Oral Tablet"/>
+            <ns0:Concept code="349332" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Escitalopram 10 MG Oral Tablet"/>
+            <ns0:Concept code="351249" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Escitalopram 5 MG Oral Tablet"/>
+            <ns0:Concept code="351250" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Escitalopram 20 MG Oral Tablet"/>
+            <ns0:Concept code="351285" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Escitalopram 1 MG/ML Oral Solution"/>
+            <ns0:Concept code="389202" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Citalopram 40 MG/ML Oral Solution"/>
+            <ns0:Concept code="403969" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluoxetine 25 MG / olanzapine 6 MG Oral Capsule"/>
+            <ns0:Concept code="403970" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluoxetine 25 MG / olanzapine 12 MG Oral Capsule"/>
+            <ns0:Concept code="403971" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluoxetine 50 MG / olanzapine 12 MG Oral Capsule"/>
+            <ns0:Concept code="403972" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluoxetine 50 MG / olanzapine 6 MG Oral Capsule"/>
+            <ns0:Concept code="411805" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR venlafaxine 100 MG Extended Release Oral Capsule"/>
+            <ns0:Concept code="596926" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="duloxetine 20 MG Delayed Release Oral Capsule"/>
+            <ns0:Concept code="596930" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="duloxetine 30 MG Delayed Release Oral Capsule"/>
+            <ns0:Concept code="596934" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="duloxetine 60 MG Delayed Release Oral Capsule"/>
+            <ns0:Concept code="616402" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="duloxetine 40 MG Delayed Release Oral Capsule"/>
+            <ns0:Concept code="645289" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Citalopram 10 MG Disintegrating Oral Tablet"/>
+            <ns0:Concept code="645290" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Citalopram 20 MG Disintegrating Oral Tablet"/>
+            <ns0:Concept code="645291" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Citalopram 40 MG Disintegrating Oral Tablet"/>
+            <ns0:Concept code="721787" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluoxetine 25 MG / olanzapine 3 MG Oral Capsule"/>
+            <ns0:Concept code="790264" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR Desvenlafaxine 100 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="790288" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR Desvenlafaxine 50 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="794947" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Sertraline 150 MG Oral Tablet"/>
+            <ns0:Concept code="803408" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Desvenlafaxine 100 MG Oral Tablet"/>
+            <ns0:Concept code="803409" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Desvenlafaxine 50 MG Oral Tablet"/>
+            <ns0:Concept code="808744" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR venlafaxine 150 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="808748" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR venlafaxine 225 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="808751" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR venlafaxine 37.5 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="808753" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR venlafaxine 75 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="826098" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluoxetine Hydrochloride 8 MG Chewable Tablet"/>
+            <ns0:Concept code="826103" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluoxetine Hydrochloride 64 MG Chewable Tablet"/>
+            <ns0:Concept code="833135" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Milnacipran hydrochloride 100 MG Oral Tablet"/>
+            <ns0:Concept code="833141" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Milnacipran hydrochloride 12.5 MG Oral Tablet"/>
+            <ns0:Concept code="833144" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Milnacipran hydrochloride 50 MG Oral Tablet"/>
+            <ns0:Concept code="833147" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Milnacipran hydrochloride 25 MG Oral Tablet"/>
+            <ns0:Concept code="835564" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Imipramine Hydrochloride 25 MG Oral Tablet"/>
+            <ns0:Concept code="835568" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Imipramine Hydrochloride 50 MG Oral Tablet"/>
+            <ns0:Concept code="835572" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Imipramine pamoate 75 MG Oral Capsule"/>
+            <ns0:Concept code="835577" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Imipramine pamoate 150 MG Oral Capsule"/>
+            <ns0:Concept code="835586" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Imipramine Hydrochloride 5 MG/ML Oral Solution"/>
+            <ns0:Concept code="835589" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Imipramine pamoate 125 MG Oral Capsule"/>
+            <ns0:Concept code="835591" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Imipramine pamoate 100 MG Oral Capsule"/>
+            <ns0:Concept code="835593" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Imipramine Hydrochloride 10 MG Oral Tablet"/>
+            <ns0:Concept code="856364" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Trazodone Hydrochloride 150 MG Oral Tablet"/>
+            <ns0:Concept code="856369" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Trazodone Hydrochloride 300 MG Oral Tablet"/>
+            <ns0:Concept code="856373" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Trazodone Hydrochloride 100 MG Oral Tablet"/>
+            <ns0:Concept code="856377" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Trazodone Hydrochloride 50 MG Oral Tablet"/>
+            <ns0:Concept code="856382" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Trazodone Hydrochloride 100 MG Oral Capsule"/>
+            <ns0:Concept code="856383" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Trazodone Hydrochloride 50 MG Oral Capsule"/>
+            <ns0:Concept code="857289" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 12.5 MG/ML Injectable Solution"/>
+            <ns0:Concept code="857291" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 10 MG Oral Tablet"/>
+            <ns0:Concept code="857292" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 10 MG Oral Capsule"/>
+            <ns0:Concept code="857296" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 25 MG Oral Tablet"/>
+            <ns0:Concept code="857297" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 25 MG Oral Capsule"/>
+            <ns0:Concept code="857301" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 50 MG Oral Capsule"/>
+            <ns0:Concept code="857305" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 75 MG Oral Capsule"/>
+            <ns0:Concept code="857315" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 50 MG Oral Tablet"/>
+            <ns0:Concept code="857326" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 75 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="861064" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Sertraline 20 MG/ML Oral Solution"/>
+            <ns0:Concept code="892742" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 20 MG Oral Tablet"/>
+            <ns0:Concept code="894759" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 5 MG Oral Tablet"/>
+            <ns0:Concept code="894763" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 80 MG Oral Tablet"/>
+            <ns0:Concept code="898697" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR Trazodone Hydrochloride 150 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="898704" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR Trazodone Hydrochloride 300 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="902714" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluoxetine Hydrochloride 16 MG Chewable Tablet"/>
+            <ns0:Concept code="902718" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluoxetine Hydrochloride 32 MG Chewable Tablet"/>
+            <ns0:Concept code="903873" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR Fluvoxamine Maleate 100 MG Extended Release Oral Capsule"/>
+            <ns0:Concept code="903879" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="24 HR Fluvoxamine Maleate 150 MG Extended Release Oral Capsule"/>
+            <ns0:Concept code="903884" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluvoxamine Maleate 100 MG Oral Tablet"/>
+            <ns0:Concept code="903887" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluvoxamine Maleate 25 MG Oral Tablet"/>
+            <ns0:Concept code="903891" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluvoxamine Maleate 50 MG Oral Tablet"/>
+        </ns0:ConceptList>
+    </ns0:ValueSet>
+</ns0:RetrieveValueSetResponse>

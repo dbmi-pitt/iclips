@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns0:RetrieveValueSetResponse xmlns:ns0="urn:ihe:iti:svs:2008" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ns0:ValueSet ID="2.16.840.1.113762.1.4.1213.52" displayName="Aldosterone Antagonists" version="20191216">
+        <ns0:ConceptList>
+            <ns0:Concept code="104230" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Spironolactone 1 MG/ML Oral Suspension"/>
+            <ns0:Concept code="104231" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Spironolactone 2 MG/ML Oral Suspension"/>
+            <ns0:Concept code="104232" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Spironolactone 5 MG/ML Oral Suspension"/>
+            <ns0:Concept code="104233" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Spironolactone 10 MG/ML Oral Suspension"/>
+            <ns0:Concept code="198222" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Spironolactone 100 MG Oral Tablet"/>
+            <ns0:Concept code="198223" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Spironolactone 50 MG Oral Tablet"/>
+            <ns0:Concept code="198224" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet"/>
+            <ns0:Concept code="198225" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Hydrochlorothiazide 50 MG / Spironolactone 50 MG Oral Tablet"/>
+            <ns0:Concept code="246399" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Furosemide 20 MG / Spironolactone 50 MG Oral Capsule"/>
+            <ns0:Concept code="250376" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Hydroflumethiazide 25 MG / Spironolactone 25 MG Oral Tablet"/>
+            <ns0:Concept code="250377" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Hydroflumethiazide 50 MG / Spironolactone 50 MG Oral Tablet"/>
+            <ns0:Concept code="313096" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Spironolactone 25 MG Oral Tablet"/>
+            <ns0:Concept code="351256" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="eplerenone 25 MG Oral Tablet"/>
+            <ns0:Concept code="351257" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="eplerenone 50 MG Oral Tablet"/>
+            <ns0:Concept code="351258" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="eplerenone 100 MG Oral Tablet"/>
+        </ns0:ConceptList>
+    </ns0:ValueSet>
+</ns0:RetrieveValueSetResponse>
