@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns0:RetrieveValueSetResponse xmlns:ns0="urn:ihe:iti:svs:2008" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ns0:ValueSet ID="2.16.840.1.113762.1.4.1213.53" displayName="History of Gastrointestinal Bleeds" version="20190918">
+        <ns0:ConceptList>
+            <ns0:Concept code="530.21" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Ulcer of esophagus with bleeding"/>
+            <ns0:Concept code="530.82" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Esophageal hemorrhage"/>
+            <ns0:Concept code="531" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Gastric ulcer"/>
+            <ns0:Concept code="531.2" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Acute gastric ulcer with hemorrhage and perforation"/>
+            <ns0:Concept code="531.4" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Chronic or unspecified gastric ulcer with hemorrhage"/>
+            <ns0:Concept code="531.6" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Chronic or unspecified gastric ulcer with hemorrhage and perforation"/>
+            <ns0:Concept code="532" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Duodenal ulcer"/>
+            <ns0:Concept code="532.2" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Acute duodenal ulcer with hemorrhage and perforation"/>
+            <ns0:Concept code="532.4" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Chronic or unspecified duodenal ulcer with hemorrhage"/>
+            <ns0:Concept code="532.6" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Chronic or unspecified duodenal ulcer with hemorrhage and perforation"/>
+            <ns0:Concept code="533" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Peptic ulcer, site unspecified"/>
+            <ns0:Concept code="533.2" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Acute peptic ulcer of unspecified site with hemorrhage and perforation"/>
+            <ns0:Concept code="533.4" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Chronic or unspecified peptic ulcer of unspecified site with hemorrhage"/>
+            <ns0:Concept code="533.6" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Chronic or unspecified peptic ulcer of unspecified site with hemorrhage and perforation"/>
+            <ns0:Concept code="534" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Gastrojejunal ulcer"/>
+            <ns0:Concept code="534.2" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Acute gastrojejunal ulcer with hemorrhage and perforation"/>
+            <ns0:Concept code="534.4" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Chronic or unspecified gastrojejunal ulcer with hemorrhage"/>
+            <ns0:Concept code="534.6" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Chronic or unspecified gastrojejunal ulcer with hemorrhage and perforation"/>
+            <ns0:Concept code="578" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Gastrointestinal hemorrhage"/>
+            <ns0:Concept code="578.9" codeSystem="2.16.840.1.113883.6.103" codeSystemName="ICD9CM" codeSystemVersion="2013" displayName="Hemorrhage of gastrointestinal tract, unspecified"/>
+        </ns0:ConceptList>
+    </ns0:ValueSet>
+</ns0:RetrieveValueSetResponse>
