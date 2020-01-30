@@ -1,93 +1,94 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns0:RetrieveValueSetResponse xmlns:ns0="urn:ihe:iti:svs:2008" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <ns0:ValueSet ID="2.16.840.1.113762.1.4.1213.31" displayName="Tricyclics" version="20191216">
+    <ns0:ValueSet ID="2.16.840.1.113762.1.4.1213.31" displayName="Tricyclics" version="20190918">
         <ns0:ConceptList>
-            <ns0:Concept code="1000048" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Doxepin Hydrochloride 10 MG Oral Capsule"/>
-            <ns0:Concept code="1000054" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Doxepin Hydrochloride 10 MG/ML Oral Solution"/>
-            <ns0:Concept code="1000058" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Doxepin Hydrochloride 100 MG Oral Capsule"/>
-            <ns0:Concept code="1000064" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Doxepin Hydrochloride 150 MG Oral Capsule"/>
-            <ns0:Concept code="1000070" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Doxepin Hydrochloride 25 MG Oral Capsule"/>
-            <ns0:Concept code="1000076" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Doxepin Hydrochloride 50 MG Oral Capsule"/>
-            <ns0:Concept code="1000091" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Doxepin Hydrochloride 50 MG/ML Topical Cream"/>
-            <ns0:Concept code="1000097" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Doxepin Hydrochloride 75 MG Oral Capsule"/>
-            <ns0:Concept code="1099288" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Desipramine Hydrochloride 10 MG Oral Tablet"/>
-            <ns0:Concept code="1099292" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Desipramine Hydrochloride 100 MG Oral Tablet"/>
-            <ns0:Concept code="1099296" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Desipramine Hydrochloride 150 MG Oral Tablet"/>
-            <ns0:Concept code="1099300" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Desipramine Hydrochloride 25 MG Oral Tablet"/>
-            <ns0:Concept code="1099304" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Desipramine Hydrochloride 50 MG Oral Tablet"/>
-            <ns0:Concept code="1099316" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Desipramine Hydrochloride 75 MG Oral Tablet"/>
-            <ns0:Concept code="1298803" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Maprotiline Hydrochloride 10 MG Oral Tablet"/>
-            <ns0:Concept code="1298857" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Maprotiline Hydrochloride 25 MG Oral Tablet"/>
-            <ns0:Concept code="1298861" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Maprotiline Hydrochloride 50 MG Oral Tablet"/>
-            <ns0:Concept code="1298870" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Maprotiline Hydrochloride 75 MG Oral Tablet"/>
-            <ns0:Concept code="197363" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amoxapine 100 MG Oral Tablet"/>
-            <ns0:Concept code="197364" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amoxapine 150 MG Oral Tablet"/>
-            <ns0:Concept code="197365" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amoxapine 25 MG Oral Tablet"/>
-            <ns0:Concept code="197366" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amoxapine 50 MG Oral Tablet"/>
-            <ns0:Concept code="198045" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Nortriptyline 10 MG Oral Capsule"/>
-            <ns0:Concept code="198046" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Nortriptyline 50 MG Oral Capsule"/>
-            <ns0:Concept code="198047" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Nortriptyline 75 MG Oral Capsule"/>
-            <ns0:Concept code="199283" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Nortriptyline 10 MG Oral Tablet"/>
-            <ns0:Concept code="199406" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Nortriptyline 25 MG Oral Tablet"/>
-            <ns0:Concept code="199820" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Trimipramine 25 MG Oral Tablet"/>
-            <ns0:Concept code="199945" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Doxepin 75 MG Oral Tablet"/>
-            <ns0:Concept code="245372" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Trimipramine 12.5 MG Oral Tablet"/>
-            <ns0:Concept code="245373" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Trimipramine 50 MG Oral Tablet"/>
-            <ns0:Concept code="245374" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Trimipramine 75 MG Oral Capsule"/>
-            <ns0:Concept code="245388" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline 15 MG / Perphenazine 3 MG Oral Tablet"/>
-            <ns0:Concept code="249706" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Lofepramine 70 MG Oral Tablet"/>
-            <ns0:Concept code="250033" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Trimipramine 10 MG Oral Tablet"/>
-            <ns0:Concept code="250722" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Lofepramine 14 MG/ML Oral Suspension"/>
-            <ns0:Concept code="312036" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Nortriptyline 2 MG/ML Oral Solution"/>
-            <ns0:Concept code="313496" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Trimipramine 100 MG Oral Capsule"/>
-            <ns0:Concept code="313497" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Trimipramine 100 MG Oral Tablet"/>
-            <ns0:Concept code="313498" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Trimipramine 25 MG Oral Capsule"/>
-            <ns0:Concept code="313499" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Trimipramine 50 MG Oral Capsule"/>
-            <ns0:Concept code="317136" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Nortriptyline 25 MG Oral Capsule"/>
-            <ns0:Concept code="835564" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Imipramine Hydrochloride 25 MG Oral Tablet"/>
-            <ns0:Concept code="835568" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Imipramine Hydrochloride 50 MG Oral Tablet"/>
-            <ns0:Concept code="835572" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Imipramine pamoate 75 MG Oral Capsule"/>
-            <ns0:Concept code="835577" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Imipramine pamoate 150 MG Oral Capsule"/>
-            <ns0:Concept code="835586" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Imipramine Hydrochloride 5 MG/ML Oral Solution"/>
-            <ns0:Concept code="835589" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Imipramine pamoate 125 MG Oral Capsule"/>
-            <ns0:Concept code="835591" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Imipramine pamoate 100 MG Oral Capsule"/>
-            <ns0:Concept code="835593" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Imipramine Hydrochloride 10 MG Oral Tablet"/>
-            <ns0:Concept code="856706" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline Hydrochloride 10 MG / Perphenazine 2 MG Oral Tablet"/>
-            <ns0:Concept code="856720" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline Hydrochloride 10 MG / Perphenazine 4 MG Oral Tablet"/>
-            <ns0:Concept code="856762" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline Hydrochloride 100 MG Oral Tablet"/>
-            <ns0:Concept code="856769" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline Hydrochloride 12.5 MG / Chlordiazepoxide 5 MG Oral Tablet"/>
-            <ns0:Concept code="856773" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline Hydrochloride 150 MG Oral Tablet"/>
-            <ns0:Concept code="856783" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline Hydrochloride 10 MG Oral Tablet"/>
-            <ns0:Concept code="856792" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline Hydrochloride 25 MG / Chlordiazepoxide 10 MG Oral Tablet"/>
-            <ns0:Concept code="856797" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline Hydrochloride 25 MG / Perphenazine 2 MG Oral Tablet"/>
-            <ns0:Concept code="856825" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline Hydrochloride 25 MG / Perphenazine 4 MG Oral Tablet"/>
-            <ns0:Concept code="856834" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline Hydrochloride 25 MG Oral Tablet"/>
-            <ns0:Concept code="856840" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline Hydrochloride 50 MG / Perphenazine 4 MG Oral Tablet"/>
-            <ns0:Concept code="856845" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline Hydrochloride 50 MG Oral Tablet"/>
-            <ns0:Concept code="856853" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline Hydrochloride 75 MG Oral Tablet"/>
-            <ns0:Concept code="856862" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline Hydrochloride 10 MG/ML Oral Solution"/>
-            <ns0:Concept code="856863" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline Hydrochloride 12.5 MG / Chlordiazepoxide 10 MG Oral Tablet"/>
-            <ns0:Concept code="856865" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline Hydrochloride 25 MG Extended Release Oral Capsule"/>
-            <ns0:Concept code="856867" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline Hydrochloride 5 MG/ML Oral Solution"/>
-            <ns0:Concept code="856868" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Amitriptyline Hydrochloride 50 MG Extended Release Oral Capsule"/>
-            <ns0:Concept code="857289" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 12.5 MG/ML Injectable Solution"/>
-            <ns0:Concept code="857291" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 10 MG Oral Tablet"/>
-            <ns0:Concept code="857292" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 10 MG Oral Capsule"/>
-            <ns0:Concept code="857296" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 25 MG Oral Tablet"/>
-            <ns0:Concept code="857297" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 25 MG Oral Capsule"/>
-            <ns0:Concept code="857301" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 50 MG Oral Capsule"/>
-            <ns0:Concept code="857305" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 75 MG Oral Capsule"/>
-            <ns0:Concept code="857315" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 50 MG Oral Tablet"/>
-            <ns0:Concept code="857326" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 75 MG Extended Release Oral Tablet"/>
-            <ns0:Concept code="865143" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluphenazine Hydrochloride 0.5 MG / Nortriptyline 10 MG Oral Tablet"/>
-            <ns0:Concept code="865146" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Fluphenazine Hydrochloride 1.5 MG / Nortriptyline 30 MG Oral Tablet"/>
-            <ns0:Concept code="892742" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 20 MG Oral Tablet"/>
-            <ns0:Concept code="894759" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 5 MG Oral Tablet"/>
-            <ns0:Concept code="894763" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Clomipramine Hydrochloride 80 MG Oral Tablet"/>
-            <ns0:Concept code="905168" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Protriptyline Hydrochloride 10 MG Oral Tablet"/>
-            <ns0:Concept code="905172" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Protriptyline Hydrochloride 5 MG Oral Tablet"/>
-            <ns0:Concept code="966787" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Doxepin 3 MG Oral Tablet"/>
-            <ns0:Concept code="966793" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-12" displayName="Doxepin 6 MG Oral Tablet"/>
+            <ns0:Concept code="1000048" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Doxepin Hydrochloride 10 MG Oral Capsule"/>
+            <ns0:Concept code="1000054" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Doxepin Hydrochloride 10 MG/ML Oral Solution"/>
+            <ns0:Concept code="1000058" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Doxepin Hydrochloride 100 MG Oral Capsule"/>
+            <ns0:Concept code="1000064" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Doxepin Hydrochloride 150 MG Oral Capsule"/>
+            <ns0:Concept code="1000070" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Doxepin Hydrochloride 25 MG Oral Capsule"/>
+            <ns0:Concept code="1000076" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Doxepin Hydrochloride 50 MG Oral Capsule"/>
+            <ns0:Concept code="1000091" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Doxepin Hydrochloride 50 MG/ML Topical Cream"/>
+            <ns0:Concept code="1000097" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Doxepin Hydrochloride 75 MG Oral Capsule"/>
+            <ns0:Concept code="1099288" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Desipramine Hydrochloride 10 MG Oral Tablet"/>
+            <ns0:Concept code="1099292" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Desipramine Hydrochloride 100 MG Oral Tablet"/>
+            <ns0:Concept code="1099296" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Desipramine Hydrochloride 150 MG Oral Tablet"/>
+            <ns0:Concept code="1099300" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Desipramine Hydrochloride 25 MG Oral Tablet"/>
+            <ns0:Concept code="1099304" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Desipramine Hydrochloride 50 MG Oral Tablet"/>
+            <ns0:Concept code="1099316" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Desipramine Hydrochloride 75 MG Oral Tablet"/>
+            <ns0:Concept code="1298803" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Maprotiline Hydrochloride 10 MG Oral Tablet"/>
+            <ns0:Concept code="1298857" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Maprotiline Hydrochloride 25 MG Oral Tablet"/>
+            <ns0:Concept code="1298861" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Maprotiline Hydrochloride 50 MG Oral Tablet"/>
+            <ns0:Concept code="1298870" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Maprotiline Hydrochloride 75 MG Oral Tablet"/>
+            <ns0:Concept code="197363" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amoxapine 100 MG Oral Tablet"/>
+            <ns0:Concept code="197364" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amoxapine 150 MG Oral Tablet"/>
+            <ns0:Concept code="197365" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amoxapine 25 MG Oral Tablet"/>
+            <ns0:Concept code="197366" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amoxapine 50 MG Oral Tablet"/>
+            <ns0:Concept code="198045" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Nortriptyline 10 MG Oral Capsule"/>
+            <ns0:Concept code="198046" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Nortriptyline 50 MG Oral Capsule"/>
+            <ns0:Concept code="198047" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Nortriptyline 75 MG Oral Capsule"/>
+            <ns0:Concept code="199283" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Nortriptyline 10 MG Oral Tablet"/>
+            <ns0:Concept code="199406" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Nortriptyline 25 MG Oral Tablet"/>
+            <ns0:Concept code="199820" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Trimipramine 25 MG Oral Tablet"/>
+            <ns0:Concept code="199945" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Doxepin 75 MG Oral Tablet"/>
+            <ns0:Concept code="245372" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Trimipramine 12.5 MG Oral Tablet"/>
+            <ns0:Concept code="245373" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Trimipramine 50 MG Oral Tablet"/>
+            <ns0:Concept code="245374" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Trimipramine 75 MG Oral Capsule"/>
+            <ns0:Concept code="245388" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline 15 MG / Perphenazine 3 MG Oral Tablet"/>
+            <ns0:Concept code="249706" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Lofepramine 70 MG Oral Tablet"/>
+            <ns0:Concept code="250033" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Trimipramine 10 MG Oral Tablet"/>
+            <ns0:Concept code="250722" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Lofepramine 14 MG/ML Oral Suspension"/>
+            <ns0:Concept code="312036" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Nortriptyline 2 MG/ML Oral Solution"/>
+            <ns0:Concept code="313496" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Trimipramine 100 MG Oral Capsule"/>
+            <ns0:Concept code="313497" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Trimipramine 100 MG Oral Tablet"/>
+            <ns0:Concept code="313498" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Trimipramine 25 MG Oral Capsule"/>
+            <ns0:Concept code="313499" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Trimipramine 50 MG Oral Capsule"/>
+            <ns0:Concept code="317136" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Nortriptyline 25 MG Oral Capsule"/>
+            <ns0:Concept code="835564" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Imipramine Hydrochloride 25 MG Oral Tablet"/>
+            <ns0:Concept code="835568" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Imipramine Hydrochloride 50 MG Oral Tablet"/>
+            <ns0:Concept code="835572" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Imipramine pamoate 75 MG Oral Capsule"/>
+            <ns0:Concept code="835577" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Imipramine pamoate 150 MG Oral Capsule"/>
+            <ns0:Concept code="835582" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Imipramine Hydrochloride 12.5 MG/ML Injectable Solution"/>
+            <ns0:Concept code="835586" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Imipramine Hydrochloride 5 MG/ML Oral Solution"/>
+            <ns0:Concept code="835589" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Imipramine pamoate 125 MG Oral Capsule"/>
+            <ns0:Concept code="835591" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Imipramine pamoate 100 MG Oral Capsule"/>
+            <ns0:Concept code="835593" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Imipramine Hydrochloride 10 MG Oral Tablet"/>
+            <ns0:Concept code="856706" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline Hydrochloride 10 MG / Perphenazine 2 MG Oral Tablet"/>
+            <ns0:Concept code="856720" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline Hydrochloride 10 MG / Perphenazine 4 MG Oral Tablet"/>
+            <ns0:Concept code="856762" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline Hydrochloride 100 MG Oral Tablet"/>
+            <ns0:Concept code="856769" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline Hydrochloride 12.5 MG / Chlordiazepoxide 5 MG Oral Tablet"/>
+            <ns0:Concept code="856773" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline Hydrochloride 150 MG Oral Tablet"/>
+            <ns0:Concept code="856783" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline Hydrochloride 10 MG Oral Tablet"/>
+            <ns0:Concept code="856792" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline Hydrochloride 25 MG / Chlordiazepoxide 10 MG Oral Tablet"/>
+            <ns0:Concept code="856797" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline Hydrochloride 25 MG / Perphenazine 2 MG Oral Tablet"/>
+            <ns0:Concept code="856825" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline Hydrochloride 25 MG / Perphenazine 4 MG Oral Tablet"/>
+            <ns0:Concept code="856834" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline Hydrochloride 25 MG Oral Tablet"/>
+            <ns0:Concept code="856840" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline Hydrochloride 50 MG / Perphenazine 4 MG Oral Tablet"/>
+            <ns0:Concept code="856845" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline Hydrochloride 50 MG Oral Tablet"/>
+            <ns0:Concept code="856853" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline Hydrochloride 75 MG Oral Tablet"/>
+            <ns0:Concept code="856862" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline Hydrochloride 10 MG/ML Oral Solution"/>
+            <ns0:Concept code="856863" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline Hydrochloride 12.5 MG / Chlordiazepoxide 10 MG Oral Tablet"/>
+            <ns0:Concept code="856865" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline Hydrochloride 25 MG Extended Release Oral Capsule"/>
+            <ns0:Concept code="856867" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline Hydrochloride 5 MG/ML Oral Solution"/>
+            <ns0:Concept code="856868" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Amitriptyline Hydrochloride 50 MG Extended Release Oral Capsule"/>
+            <ns0:Concept code="857289" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Clomipramine Hydrochloride 12.5 MG/ML Injectable Solution"/>
+            <ns0:Concept code="857291" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Clomipramine Hydrochloride 10 MG Oral Tablet"/>
+            <ns0:Concept code="857292" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Clomipramine Hydrochloride 10 MG Oral Capsule"/>
+            <ns0:Concept code="857296" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Clomipramine Hydrochloride 25 MG Oral Tablet"/>
+            <ns0:Concept code="857297" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Clomipramine Hydrochloride 25 MG Oral Capsule"/>
+            <ns0:Concept code="857301" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Clomipramine Hydrochloride 50 MG Oral Capsule"/>
+            <ns0:Concept code="857305" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Clomipramine Hydrochloride 75 MG Oral Capsule"/>
+            <ns0:Concept code="857315" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Clomipramine Hydrochloride 50 MG Oral Tablet"/>
+            <ns0:Concept code="857326" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Clomipramine Hydrochloride 75 MG Extended Release Oral Tablet"/>
+            <ns0:Concept code="865143" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Fluphenazine Hydrochloride 0.5 MG / Nortriptyline 10 MG Oral Tablet"/>
+            <ns0:Concept code="865146" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Fluphenazine Hydrochloride 1.5 MG / Nortriptyline 30 MG Oral Tablet"/>
+            <ns0:Concept code="892742" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Clomipramine Hydrochloride 20 MG Oral Tablet"/>
+            <ns0:Concept code="894759" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Clomipramine Hydrochloride 5 MG Oral Tablet"/>
+            <ns0:Concept code="894763" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Clomipramine Hydrochloride 80 MG Oral Tablet"/>
+            <ns0:Concept code="905168" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Protriptyline Hydrochloride 10 MG Oral Tablet"/>
+            <ns0:Concept code="905172" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Protriptyline Hydrochloride 5 MG Oral Tablet"/>
+            <ns0:Concept code="966787" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Doxepin 3 MG Oral Tablet"/>
+            <ns0:Concept code="966793" codeSystem="2.16.840.1.113883.6.88" codeSystemName="RXNORM" codeSystemVersion="2019-08" displayName="Doxepin 6 MG Oral Tablet"/>
         </ns0:ConceptList>
     </ns0:ValueSet>
 </ns0:RetrieveValueSetResponse>
